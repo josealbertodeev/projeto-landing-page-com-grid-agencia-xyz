@@ -12,5 +12,10 @@
 
  ## 📷 Preview
 💻 Versão Web
+
 ![animação 2](https://github.com/user-attachments/assets/c3734627-0968-4690-9559-ae9b5f80c2d5)
+
+## Criado por [@josealbertodeev](https://github.com/josealbertodeev/josealbertodeev)
+## Se gostou do projeto, deixe uma ⭐ no repositório! 😊
+## 💡 Sugestões e melhorias são sempre bem-vindas! 😉
 
